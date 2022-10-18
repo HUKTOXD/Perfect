@@ -1,0 +1,150 @@
+
+
+.inf {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+  }
+  .inf:hover:hover {
+    background-position: right center;
+  }
+
+.net h2 {
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+}
+
+.net p {
+    margin: auto;
+    font-size: 130%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    margin: auto;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    background-color: rgb(193, 189, 230) ;
+}
+
+    .pmnogo {
+        margin: auto;
+        font-size: 130%;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 900;
+        margin: auto;
+        padding: 15px 20px;
+        margin-bottom: 15px;
+        border-radius: 20px;
+        background-color: rgb(193, 189, 230) ;
+    }
+
+    .h2mnogo {
+        display: block;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 180%;
+    }
+
+        .nametab {
+            font-size: 30px;
+        }
+
+        .h2tab {
+            display: block;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 170%;
+        }
+
+        .tab tr:nth-child(even) {
+            background-color: rgb(145, 145, 145);
+        }
+
+        .tab {
+            width: 100%;
+            padding: 15px 20px;
+            border-radius: 20px;
+            font-size: 20px;
+            font-weight: 800;
+            font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(177, 177, 177);
+        }
+
+            .h1list {
+                font-family: 'Courier New', Courier, monospace;
+                display: block;
+                text-align: center;
+            }
+
+            .list {
+                margin: auto;
+                padding: 15px 20px;
+                border-radius: 20px;
+                background-color: rgb(243, 222, 191) ;
+            }
+
+            .list a {
+                color: rgb(77, 77, 77);
+                text-decoration: none;
+                font-size: 150%;
+                font-family: 'Courier New', Courier, monospace;
+                font-weight: 800;
+                border-bottom: 2px , solid;
+            }
+
+            .list a:hover {
+                color: black;
+            }
+            
+            .list a:vi
+
+            .list li {
+                font-size: 150%;
+                font-family: 'Courier New', Courier, monospace;
+                font-weight: 800;
+                border-bottom: 2px , solid;
+            }
+
+                .textos2 {
+                    margin: auto;
+                    padding: 15px 20px;
+                    margin-bottom: 15px;
+                    border-radius: 20px;
+                    background-color: rgb(243, 222, 191) ;
+                }
+
+                .textos {
+                    margin: auto;
+                    font-size: 130%;
+                    font-family: 'Courier New', Courier, monospace;
+                }
+
+                .container {
+                    max-width: 70%;
+                    margin: auto;
+                    background-color: rgb(218, 218, 218);
+                }
+
+                .osh1 {
+                    display: block;
+                    text-align: center;
+                    font-family: 'Courier New', Courier, monospace;
+                }
+
+
+            .plist {
+                padding-left: 3%;
+                color: rgb(134, 134, 134);
+            }
